@@ -26,3 +26,8 @@ Speechiness: Speechiness detects the presence of spoken words in a track. The mo
 Tempo: The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.
 Valence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 Chord: The main chord of the song instrumental.
+
+Partial conclusion:
+We use the variables Artist_Followers, Popularity, Danceability, Energy, Loudness, Speechiness, Acousticness, Liveness, Tempo, Valence, Duration_s, in order to observe if there is a linear correlation between them and the amount of Streams.
+  This analysis could not determine that there is some type of combination between these variables that is sufficient to explain the success of a song based on the number of Streams.
+Therefore a new question arises: what factor or factors influence a song to be successful?
