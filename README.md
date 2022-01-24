@@ -1,5 +1,5 @@
 # Spotify
-Can we estimate from a multiple linear regression model if a song will be successful?
+Can we estimate from a multiple linear regression model using Machine Learning if a song will be popular?
 
 About this DataSet:
 
